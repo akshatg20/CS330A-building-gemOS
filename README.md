@@ -4,7 +4,7 @@ This repository contains my solutions to the three assignments as part of the co
 
 The first three assignments consist of development on an OS made using the **gem5** architectural simulator. This OS will be referred to as **gemOS**. 
 
-**Assignment 1** - OS preliminaries, including implementations of gemOS library functions memalloc() and memfree().
+<u>**Assignment 1**</u> - OS preliminaries, including implementations of gemOS library functions memalloc() and memfree().
 
 **Assignment 2** - Implemented read/write functionalities for trace buffers, and implemented system call and function tracing.
 
